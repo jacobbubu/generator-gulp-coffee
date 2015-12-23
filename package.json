@@ -1,7 +1,7 @@
 {
   "name": "generator-gulp-coffee",
-  "version": "0.1.1",
-  "description": "A yeoman generator to generate a boilerplate project for gulp and coffee-script",
+  "version": "0.1.2",
+  "description": "A yeoman generator to generate a boilerplate project for gulp and coffee-script development",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
