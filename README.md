@@ -18,7 +18,7 @@ To install generator-gulp-coffee from npm, run:
 $ npm install -g generator-gulp-coffee
 ```
 
-And then, create a directory to put you framer project in:
+And then, create a directory to put you gulp project in:
 
 ```bash
 $ mkdir your-coffee-proj && cd $_
