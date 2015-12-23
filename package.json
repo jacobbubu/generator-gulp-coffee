@@ -1,0 +1,31 @@
+{
+  "name": "generator-gulp-coffee",
+  "version": "0.1.1",
+  "description": "A yeoman generator to generate a boilerplate project for gulp and coffee-script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobbubu/generator-framer-coffee.git"
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobbubu/generator-gulp-coffee.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "yeoman",
+    "gulp",
+    "coffee-script"
+  ],
+  "files": [
+    "app"
+  ],
+  "author": "Rong Shen",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.21.1"
+  }
+}
