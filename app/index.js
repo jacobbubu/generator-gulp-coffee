@@ -11,8 +11,8 @@ var GulpCoffeeGenerator = yeoman.generators.Base.extend({
         'version': '0.1.0',
         'dependencies': {},
         'scripts': {
-          'start': 'gulp',
-          'build': 'gulp build'
+          'start': 'gulp build',
+          'watch': 'gulp watch'
         }
       };
       this.write('package.json', JSON.stringify(pkg));

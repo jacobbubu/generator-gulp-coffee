@@ -19,4 +19,4 @@ gulp.task 'watch', ->
 gulp.task 'build', ['clean'], ->
     gulp.start 'compile'
 
-gulp.task 'default', ['build'], -> gulp.start 'watch'
+gulp.task 'default', ['build']
