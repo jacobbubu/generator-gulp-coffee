@@ -25,7 +25,7 @@ var GulpCoffeeGenerator = yeoman.generators.Base.extend({
       );
       // Copy all dotfiles
       this.copy('.gitignore', '.gitignore');
-      this.copy('.gitignore', '.gitignore');
+      this.copy('.npmignore', '.npmignore');
     }
   },
   install: function() {
